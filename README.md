@@ -16,3 +16,5 @@
 <img src="images/1.JPG"/>
 
 <img src="images/2.JPG"/>
+
+15:00 - 16:00: Continue and finish redux video
