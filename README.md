@@ -6,7 +6,7 @@
 
 11:20 - 12:00: Continue Redux video
 
-Contact creators of PDXWIT Program, look at available code
+12:50 - 13:20: Contact creators of PDXWIT Program
+               Look at available code on current site
 
-
-12:50 - 1:20:
+13:20 - 14:00: Lunchtime
