@@ -11,5 +11,8 @@
 
 13:20 - 14:00: Lunchtime
 
-14:00 - :00:
-<img src="images/1.JPG" />
+14:00 - 15:00:
+
+<img src="images/1.JPG"/>
+
+<img src="images/2.JPG"/>
