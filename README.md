@@ -12,4 +12,4 @@
 13:20 - 14:00: Lunchtime
 
 14:00 - :00:
-<img src="images/1.JPG" /> ![](images/k8s-dashboard.png)
+<img src="images/1.JPG" />
