@@ -22,3 +22,5 @@ FRIDAY
 15:00 - 16:00: Continue and finish redux video
 
 16:00 - 17:00: Watch review redux video
+
+17:00 - 18:20: Finish redux video
