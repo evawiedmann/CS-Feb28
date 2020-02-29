@@ -1,3 +1,5 @@
+FRIDAY
+
 8:15 - 10:15: Meet with PDXWIT mentor
 
 10:15 - 10:30: Drive home
@@ -18,3 +20,5 @@
 <img src="images/2.JPG"/>
 
 15:00 - 16:00: Continue and finish redux video
+
+16:00 - 17:00: Watch review redux video
