@@ -24,3 +24,8 @@ FRIDAY
 16:00 - 17:00: Watch review redux video
 
 17:00 - 18:20: Finish redux video
+
+
+
+
+8:00 - ?: Struggling through some big config issues on my machine, will commit from new repo as soon as I have it sorted
